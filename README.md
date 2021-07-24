@@ -1,1 +1,2 @@
-# gait-recognition
+# gait-recognition  
+Aiming at detecting the pattern of human walking movement,gait recognition takes advantage of the time-serial data and can identify a person distantly.The time-serial data,which is usually presented in video form,always has a limitation in frame rate,which intrinsically affects the performance of the recognition models.In order to increase the frame rate of gait videos,we propose a new kind of generative adversarial networks(GAN) named Frame-GAN to reduce the gap between adjacent frames.
